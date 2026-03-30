@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there 👋 I'm Sangeetha
 
-<!--
-**sangeethacm993-tech/sangeethacm993-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year B.E. Student in **Information Science and Engineering**
+💻 Passionate about **AI, Web Development, and Data Science**
+🚀 Actively exploring **Agentic AI, hackathons, and real-world tech projects**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔭 Projects
+
+* 🍽️ **Canteen Ticket Booking System** – A console-based Python project using file handling and command-line interaction.
+
+---
+
+## 🌱 Currently Learning
+
+* **Java Programming**
+* **Design and Analysis of Algorithms (DAA)**
+* **SQL**
+* **Web Development**
+
+---
+
+## 💡 Skills
+
+* **Programming:** Python, C (basics), Java (learning)
+* **Concepts:** Data Structures & Algorithms (basics in C)
+* **Web:** Basic Web Development
+* **Tools:** GitHub, VS Code, Canva, Lovable, AI Studio
+
+---
+
+## 🚀 Interests
+
+* Artificial Intelligence
+* Agentic AI Systems
+* Web Development
+* Data Science
+* Participating in Hackathons
+
+---
+
+## 🏆 Activities
+
+* Participated in **Agentic AI Workshop**
+* Participated in a **Hackathon conducted by the Government**
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/sangeetha-c-m-65282730b
+* Email: [sangeethacm731@gmail.com](mailto:sangeethacm731@gmail.com)
+
+---
+
+⭐ Always learning, building, and exploring new technologies.
+
 -->
