@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sangeetha
 
-🎓 2nd Year B.E. Student in **Information Science and Engineering**
+🎓 3rd Year B.E. Student in **Information Science and Engineering**
 💻 Passionate about **AI, Web Development, and Data Science**
 🚀 Actively exploring **Agentic AI, hackathons, and real-world tech projects**
 
